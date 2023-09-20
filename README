@@ -1,1 +1,25 @@
-COMP 4555 Final Project
+COMP 4555 - Game Development Final Project
+Created using Pygame
+
+Fructus Objective:
+The goal of fructus is to rack up as many points as possible before your demise. The game goes on until
+you hit a skull and die.
+
+Mechanics:
+The controls are simple : A to move left, B to move right.
+
+- Eat the fruits to get points
+
+- Follow the combos on the top left to get more points
+  Partially finishing the combo will give you bonus points
+  Fully finishing the combo will give you alot of points (Fruit Salad!)
+  Finishing combos in a row without messing up will exponentially increase the points you get from full combos (full combos = fruit salad!)
+
+- Each fruit is worth the same points
+
+- There are also mushrooms which periodically appear which
+  double the score you get from combos and fruits for 5 seconds
+
+- Picking up multiple mushrooms stack the effect (ex. 2 mushrooms = 4x points!!)
+
+- The more skulls spawn the more points you get
